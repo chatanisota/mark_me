@@ -11,8 +11,8 @@ import cv2
 class FileModel:
 
 
-    __npy_folder = './datas/npy/'
-    __json_folder = './datas/json/'
+    __npy_folder = './datas/'
+    __json_folder = './please_send_this_folder/'
     __names = []
     __current_index = 0
 
